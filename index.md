@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 残阳晓月的博客
 
 You can use the [editor on GitHub](https://github.com/shizhitao1997/shizhitao1997.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
